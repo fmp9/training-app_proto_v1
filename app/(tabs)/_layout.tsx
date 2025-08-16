@@ -12,12 +12,11 @@ export default function TabsLayout() {
             tabBarIcon: ({color}) => ( <MaterialCommunityIcons name="calendar-month" size={24} color={color} />),}}/>
 
         <Tabs.Screen name="training" options={{
-            title: "Traini ng",
+            title: "Training",
             tabBarIcon: ({color}) => ( <MaterialCommunityIcons name="arm-flex-outline" size={24} color={color} />),}}/>
 
         <Tabs.Screen name="profile" options={{
             title: "Profil",
             tabBarIcon: ({color}) => ( <MaterialCommunityIcons name="face-man" size={24} color={color} />),}}/>
-
     </Tabs>
 }
