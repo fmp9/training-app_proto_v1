@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792503543401",
+    "project_id": "nn-app-proto",
+    "storage_bucket": "nn-app-proto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792503543401:android:b1739f202949a407c4a4f8",
+        "android_client_info": {
+          "package_name": "com.trainingapp.proto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYU2q3ddMd2azPou6RMvgtCZZH0lPA4wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
